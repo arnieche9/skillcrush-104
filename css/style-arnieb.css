@@ -1,0 +1,54 @@
+/***** Arnie Buenaventura Advice *****/
+.arnieb-advice{
+  background-color: #f2ffe6;
+  font-family: 'Krona One', sans-serif;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.arnieb-advice h1{
+  color: #02111B;
+  font-family: 'Krona One', sans-serif;
+  text-align: center;
+  font-size: 40px;
+  text-transform: capitalize;
+  padding: 20px 30px;
+}
+
+.arnieb-advice h4{
+  color: #30292F;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 40px;
+}
+
+.arnieb-advice p{
+  color: #5D737E;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.arnieb-advice header {
+  font-family: 'Krona One', sans-serif;
+  padding: 10px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.arnieb-advice a {
+  color: #5D737E;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.arnieb-advice footer{
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.arnieb-advice footer p{
+  font-size: 15px;
+}
